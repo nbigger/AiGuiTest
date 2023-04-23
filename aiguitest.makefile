@@ -1,0 +1,7 @@
+//makefile
+
+TARGET=AIGUITEST
+INCLUDE=
+LIBS=
+
+MACRO=
